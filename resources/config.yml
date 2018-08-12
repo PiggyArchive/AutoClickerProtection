@@ -1,0 +1,5 @@
+allowed-clicks-per-second: 65
+autoclick-detected-message: "{RED}{PLAYER} has clicked {CLICKCOUNT} in the last second."
+autoclick-punishment-ban-message: "{RED}You have been banned for autoclicking."
+autoclick-punishment-kick-message: "{RED}You have been kicked for autoclicking."
+autoclick-detected-punishment: "kick"
